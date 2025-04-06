@@ -6,9 +6,9 @@ import lightgbm as lgb
 import pickle
 
 
-freelancers_df = pd.read_csv(r'/content/freelancers.csv')
+freelancers_df = pd.read_csv('freelancers.csv')
 
-jobs_df = pd.read_csv(r'/content/jobs.csv')
+jobs_df = pd.read_csv('jobs.csv')
 
 
 freelancers_df["Skills"] = freelancers_df["Skills"].apply(ast.literal_eval)
