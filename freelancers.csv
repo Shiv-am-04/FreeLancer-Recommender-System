@@ -1,0 +1,1001 @@
+Freelancer_ID,Skills,Hourly_Rate,Rating,Completed_Projects
+F0000,"['Docker', 'AWS', 'SQL', 'JavaScript']",99.25,4.4,98
+F0001,"['NodeJS', 'Python', 'AWS', 'Django', 'JavaScript']",90.35,3.0,36
+F0002,"['React', 'NodeJS', 'Docker']",82.65,4.6,97
+F0003,"['Docker', 'Python']",81.66,3.8,85
+F0004,"['Docker', 'AWS', 'React']",28.79,3.6,42
+F0005,"['React', 'SQL']",47.74,3.4,91
+F0006,"['Python', 'NodeJS', 'React']",51.12,3.0,46
+F0007,"['Django', 'SQL', 'Docker']",16.75,4.6,15
+F0008,"['Python', 'NodeJS', 'JavaScript', 'Django']",61.46,3.6,18
+F0009,"['SQL', 'Docker']",25.67,4.8,8
+F0010,"['NodeJS', 'React']",63.56,3.4,9
+F0011,"['Python', 'NodeJS', 'Django', 'React', 'Docker']",93.87,3.8,93
+F0012,"['Docker', 'Python', 'SQL', 'React']",68.2,3.9,53
+F0013,"['Django', 'NodeJS']",37.5,3.5,36
+F0014,"['React', 'Python', 'SQL', 'AWS']",27.16,3.9,41
+F0015,"['AWS', 'Python', 'SQL', 'Django']",75.08,3.2,96
+F0016,"['Docker', 'JavaScript', 'React', 'AWS', 'Django']",31.32,3.6,26
+F0017,"['JavaScript', 'Python', 'Django', 'AWS', 'NodeJS']",59.65,3.1,61
+F0018,"['Python', 'Docker', 'AWS', 'React']",49.29,4.1,82
+F0019,"['SQL', 'AWS', 'React']",91.14,3.7,21
+F0020,"['Docker', 'Python', 'AWS']",46.83,4.3,97
+F0021,"['React', 'Docker', 'Python', 'NodeJS']",77.8,4.1,39
+F0022,"['Python', 'Docker', 'React']",83.54,4.9,96
+F0023,"['SQL', 'JavaScript', 'AWS', 'Docker', 'Python']",80.31,4.4,72
+F0024,"['SQL', 'React', 'Docker', 'JavaScript']",88.63,4.5,20
+F0025,"['React', 'NodeJS', 'Django', 'Python']",94.28,4.6,72
+F0026,"['Python', 'Django']",24.07,4.4,53
+F0027,"['React', 'Python', 'SQL', 'AWS']",33.22,4.9,7
+F0028,"['React', 'AWS', 'Python', 'Django']",54.74,3.9,96
+F0029,"['SQL', 'Python', 'React']",61.15,4.8,77
+F0030,"['React', 'AWS', 'Django']",35.09,4.1,48
+F0031,"['Python', 'NodeJS', 'Django', 'AWS', 'SQL']",88.83,3.7,52
+F0032,"['AWS', 'Docker']",21.04,4.2,53
+F0033,"['SQL', 'React', 'Docker']",40.45,3.0,77
+F0034,"['AWS', 'Docker', 'JavaScript', 'Django']",70.2,4.2,21
+F0035,"['Docker', 'SQL']",51.39,4.2,11
+F0036,"['AWS', 'Docker', 'SQL', 'Python', 'NodeJS']",49.91,4.4,84
+F0037,"['Python', 'NodeJS', 'Django']",33.78,3.1,82
+F0038,"['AWS', 'SQL', 'Docker', 'NodeJS']",50.5,4.4,81
+F0039,"['React', 'AWS', 'SQL']",51.78,3.1,29
+F0040,"['JavaScript', 'Django', 'React', 'AWS', 'NodeJS']",77.48,4.2,50
+F0041,"['Python', 'AWS', 'Django']",92.5,4.3,45
+F0042,"['Django', 'AWS', 'Python']",72.44,4.9,16
+F0043,"['SQL', 'React', 'Django', 'AWS']",87.05,4.7,15
+F0044,"['Django', 'Python']",23.04,4.6,88
+F0045,"['React', 'JavaScript', 'Docker']",34.68,3.1,31
+F0046,"['SQL', 'Python', 'NodeJS', 'AWS']",42.95,4.9,6
+F0047,"['Docker', 'JavaScript', 'NodeJS', 'Django', 'AWS']",43.03,3.7,39
+F0048,"['SQL', 'JavaScript', 'Docker']",70.04,4.9,76
+F0049,"['React', 'AWS', 'Python', 'Docker', 'Django']",97.81,3.9,61
+F0050,"['Python', 'Django', 'SQL', 'JavaScript']",78.95,3.7,74
+F0051,"['NodeJS', 'JavaScript', 'React', 'Django']",39.18,3.3,53
+F0052,"['SQL', 'NodeJS', 'Docker', 'Python', 'Django']",95.38,4.3,50
+F0053,"['Docker', 'SQL', 'JavaScript', 'Django', 'NodeJS']",40.08,4.4,26
+F0054,"['Docker', 'Django', 'NodeJS', 'React', 'AWS']",54.81,3.9,9
+F0055,"['SQL', 'AWS', 'NodeJS']",61.39,4.1,86
+F0056,"['Django', 'JavaScript', 'NodeJS', 'Python']",92.55,3.2,47
+F0057,"['SQL', 'React', 'Docker']",73.9,4.6,48
+F0058,"['Python', 'SQL']",49.02,3.1,5
+F0059,"['Django', 'Python', 'Docker', 'React']",99.27,4.3,25
+F0060,"['SQL', 'JavaScript', 'AWS']",53.59,4.4,25
+F0061,"['Django', 'JavaScript', 'NodeJS', 'Docker', 'React']",17.82,4.2,23
+F0062,"['React', 'JavaScript', 'SQL', 'Docker']",33.11,3.8,24
+F0063,"['Docker', 'NodeJS']",81.35,4.4,68
+F0064,"['NodeJS', 'Django']",85.18,3.3,72
+F0065,"['JavaScript', 'NodeJS', 'React', 'Docker']",31.05,3.3,29
+F0066,"['Django', 'JavaScript', 'AWS', 'SQL']",54.17,3.9,50
+F0067,"['JavaScript', 'Docker']",17.65,3.5,78
+F0068,"['Docker', 'JavaScript', 'Django', 'React', 'AWS']",19.24,4.6,67
+F0069,"['Python', 'SQL']",94.18,4.7,85
+F0070,"['Python', 'SQL', 'NodeJS']",36.15,3.8,95
+F0071,"['Docker', 'JavaScript']",92.26,3.5,31
+F0072,"['Python', 'AWS', 'SQL', 'React']",69.56,4.4,44
+F0073,"['AWS', 'JavaScript', 'NodeJS', 'Django', 'React']",92.39,4.0,38
+F0074,"['React', 'Python', 'Django', 'NodeJS', 'JavaScript']",50.63,3.8,78
+F0075,"['SQL', 'NodeJS', 'AWS', 'React', 'JavaScript']",71.76,3.9,7
+F0076,"['Django', 'NodeJS', 'JavaScript']",80.77,4.0,39
+F0077,"['Python', 'SQL', 'JavaScript']",80.42,3.9,94
+F0078,"['NodeJS', 'SQL', 'Docker', 'Django']",81.05,4.9,10
+F0079,"['AWS', 'Docker', 'NodeJS', 'Django']",89.79,4.0,70
+F0080,"['React', 'JavaScript', 'Django']",29.97,3.3,42
+F0081,"['Docker', 'React', 'NodeJS']",15.52,4.4,18
+F0082,"['Python', 'React', 'JavaScript', 'Django', 'AWS']",72.45,4.8,36
+F0083,"['Docker', 'Python', 'SQL', 'JavaScript', 'React']",39.43,4.3,33
+F0084,"['React', 'Docker', 'JavaScript']",80.23,3.6,64
+F0085,"['SQL', 'React']",34.45,4.5,60
+F0086,"['AWS', 'JavaScript', 'React', 'SQL']",82.64,4.8,77
+F0087,"['NodeJS', 'JavaScript']",82.55,4.6,34
+F0088,"['Django', 'Python', 'AWS']",32.61,5.0,50
+F0089,"['Django', 'JavaScript']",68.08,3.4,18
+F0090,"['React', 'NodeJS', 'SQL', 'Django', 'Docker']",55.52,3.1,29
+F0091,"['NodeJS', 'Django', 'AWS', 'SQL', 'Docker']",36.68,3.9,59
+F0092,"['Docker', 'JavaScript', 'React', 'NodeJS', 'Python']",62.41,3.6,58
+F0093,"['Python', 'NodeJS']",32.57,3.9,11
+F0094,"['JavaScript', 'Python']",42.6,4.8,28
+F0095,"['Docker', 'Django', 'AWS', 'JavaScript']",80.96,3.8,76
+F0096,"['Django', 'React']",53.2,4.6,47
+F0097,"['React', 'AWS']",90.79,4.6,89
+F0098,"['SQL', 'NodeJS']",62.91,3.5,7
+F0099,"['Docker', 'SQL', 'Python']",18.1,3.5,26
+F0100,"['JavaScript', 'React', 'Python', 'NodeJS']",79.88,4.2,63
+F0101,"['Python', 'Django', 'AWS', 'React', 'JavaScript']",54.23,4.6,9
+F0102,"['JavaScript', 'Docker']",46.43,4.6,23
+F0103,"['AWS', 'NodeJS', 'Docker']",17.01,3.1,19
+F0104,"['React', 'NodeJS']",42.02,3.9,40
+F0105,"['Python', 'React', 'NodeJS', 'AWS', 'Django']",96.91,3.0,91
+F0106,"['Docker', 'AWS', 'JavaScript']",76.54,3.8,70
+F0107,"['Python', 'AWS']",19.48,4.5,18
+F0108,"['React', 'NodeJS', 'JavaScript', 'SQL']",20.98,3.6,63
+F0109,"['Python', 'SQL']",63.08,5.0,32
+F0110,"['JavaScript', 'SQL', 'Docker']",48.37,3.5,56
+F0111,"['SQL', 'JavaScript', 'Docker']",74.71,3.5,33
+F0112,"['SQL', 'JavaScript', 'AWS']",17.5,4.4,34
+F0113,"['SQL', 'Django', 'Python']",48.81,3.1,95
+F0114,"['NodeJS', 'React']",72.29,4.5,77
+F0115,"['NodeJS', 'Docker', 'Python', 'SQL', 'JavaScript']",59.93,4.0,69
+F0116,"['NodeJS', 'SQL', 'Docker', 'JavaScript', 'React']",79.11,4.3,22
+F0117,"['AWS', 'Django', 'NodeJS', 'Python']",47.88,3.3,48
+F0118,"['JavaScript', 'Docker', 'AWS', 'Django']",31.47,3.1,11
+F0119,"['NodeJS', 'SQL', 'React', 'Python', 'Django']",86.62,3.6,35
+F0120,"['JavaScript', 'React', 'NodeJS', 'Docker']",66.93,3.5,49
+F0121,"['React', 'Docker', 'Django', 'Python', 'SQL']",79.23,4.3,94
+F0122,"['JavaScript', 'React', 'NodeJS', 'SQL', 'Docker']",62.58,3.5,68
+F0123,"['Docker', 'NodeJS']",44.29,4.6,31
+F0124,"['React', 'SQL', 'Django', 'Python', 'Docker']",22.86,4.6,35
+F0125,"['Django', 'React', 'JavaScript', 'Python', 'NodeJS']",95.7,4.9,56
+F0126,"['NodeJS', 'React', 'Django', 'AWS']",68.05,3.2,39
+F0127,"['React', 'AWS']",93.79,4.7,19
+F0128,"['AWS', 'JavaScript']",85.23,4.4,92
+F0129,"['JavaScript', 'AWS', 'Docker']",99.72,4.3,25
+F0130,"['SQL', 'React', 'JavaScript']",38.68,4.3,88
+F0131,"['Django', 'Docker', 'AWS']",39.31,4.1,45
+F0132,"['NodeJS', 'Python', 'React', 'Django']",46.03,4.9,35
+F0133,"['Python', 'Django', 'Docker']",64.43,5.0,25
+F0134,"['AWS', 'Django', 'NodeJS']",53.65,3.1,25
+F0135,"['Django', 'React']",51.15,4.0,6
+F0136,"['AWS', 'React', 'Django', 'JavaScript']",25.16,3.8,12
+F0137,"['JavaScript', 'NodeJS', 'AWS']",18.0,3.9,18
+F0138,"['Docker', 'React', 'SQL', 'Python', 'Django']",87.87,3.6,55
+F0139,"['JavaScript', 'Python', 'React', 'Docker', 'AWS']",77.43,4.8,73
+F0140,"['React', 'SQL']",99.59,4.3,98
+F0141,"['NodeJS', 'Docker']",50.85,4.4,9
+F0142,"['Docker', 'NodeJS', 'Django', 'Python', 'JavaScript']",84.52,4.0,72
+F0143,"['SQL', 'AWS']",57.05,3.1,15
+F0144,"['Python', 'Django']",93.91,4.3,36
+F0145,"['React', 'SQL', 'Python', 'NodeJS', 'Docker']",19.49,3.5,95
+F0146,"['AWS', 'Django', 'JavaScript']",94.95,3.7,23
+F0147,"['Docker', 'NodeJS']",52.33,3.7,39
+F0148,"['Django', 'NodeJS', 'SQL', 'React', 'AWS']",39.85,3.8,14
+F0149,"['NodeJS', 'JavaScript', 'SQL', 'Django', 'React']",26.22,3.4,91
+F0150,"['AWS', 'SQL', 'JavaScript', 'React', 'Python']",35.84,4.3,91
+F0151,"['Python', 'React', 'SQL']",92.71,5.0,49
+F0152,"['NodeJS', 'AWS', 'React']",73.09,5.0,58
+F0153,"['Python', 'SQL']",43.43,3.5,78
+F0154,"['Docker', 'NodeJS', 'SQL', 'React', 'JavaScript']",98.89,4.9,72
+F0155,"['AWS', 'Django', 'JavaScript', 'SQL']",74.18,3.1,38
+F0156,"['AWS', 'Python', 'SQL']",91.25,4.7,86
+F0157,"['JavaScript', 'AWS']",97.73,3.5,7
+F0158,"['AWS', 'Docker', 'NodeJS', 'SQL']",60.97,4.6,94
+F0159,"['AWS', 'JavaScript', 'SQL', 'NodeJS']",51.21,3.2,75
+F0160,"['SQL', 'Docker', 'NodeJS']",63.28,3.9,17
+F0161,"['SQL', 'JavaScript', 'Django']",88.14,3.8,8
+F0162,"['AWS', 'JavaScript']",98.09,3.2,40
+F0163,"['SQL', 'Django', 'Docker', 'Python', 'NodeJS']",29.0,3.7,76
+F0164,"['React', 'Python', 'NodeJS']",26.29,3.9,20
+F0165,"['SQL', 'JavaScript']",72.9,3.8,53
+F0166,"['SQL', 'Python', 'Django']",32.34,4.0,67
+F0167,"['Docker', 'React', 'JavaScript']",63.79,3.4,96
+F0168,"['Docker', 'AWS', 'React', 'SQL', 'Python']",33.66,4.3,23
+F0169,"['Docker', 'React']",24.29,3.1,44
+F0170,"['React', 'Docker', 'SQL']",92.62,3.9,21
+F0171,"['Python', 'Django']",81.74,4.9,12
+F0172,"['NodeJS', 'Docker', 'Python']",55.9,4.7,57
+F0173,"['Docker', 'NodeJS']",92.65,3.4,58
+F0174,"['Docker', 'JavaScript']",68.62,4.9,67
+F0175,"['JavaScript', 'Django']",87.58,3.3,87
+F0176,"['SQL', 'Docker']",77.42,4.6,95
+F0177,"['React', 'AWS', 'Python', 'SQL']",36.73,4.7,70
+F0178,"['React', 'Docker']",56.6,3.7,31
+F0179,"['JavaScript', 'React', 'AWS', 'NodeJS', 'Django']",54.72,3.8,69
+F0180,"['AWS', 'React', 'JavaScript', 'NodeJS', 'Django']",56.12,4.4,56
+F0181,"['Django', 'React', 'Docker']",96.26,4.1,96
+F0182,"['JavaScript', 'React', 'Python']",51.67,3.3,50
+F0183,"['Django', 'NodeJS', 'Docker', 'React', 'AWS']",92.19,4.1,22
+F0184,"['Docker', 'Django']",39.49,3.1,61
+F0185,"['JavaScript', 'Docker', 'React', 'SQL', 'Python']",69.79,4.8,12
+F0186,"['SQL', 'NodeJS', 'JavaScript', 'Django', 'Python']",98.02,4.6,20
+F0187,"['Docker', 'React', 'SQL']",99.18,4.9,69
+F0188,"['JavaScript', 'Python', 'Docker', 'SQL', 'NodeJS']",52.6,4.3,89
+F0189,"['Django', 'NodeJS']",17.19,3.6,29
+F0190,"['JavaScript', 'SQL', 'Python']",71.24,3.3,24
+F0191,"['React', 'Python', 'JavaScript']",97.15,4.5,97
+F0192,"['SQL', 'React']",25.6,3.4,56
+F0193,"['AWS', 'SQL', 'React']",69.87,3.1,39
+F0194,"['Docker', 'AWS', 'JavaScript', 'Python', 'SQL']",72.16,3.2,48
+F0195,"['Docker', 'Django', 'Python', 'SQL', 'React']",57.9,4.3,36
+F0196,"['Python', 'JavaScript', 'React', 'NodeJS']",75.6,3.2,51
+F0197,"['Docker', 'JavaScript', 'Django']",45.72,4.0,86
+F0198,"['React', 'JavaScript', 'Docker', 'NodeJS', 'Django']",45.94,3.8,46
+F0199,"['SQL', 'Django', 'Python', 'React', 'JavaScript']",97.04,4.9,13
+F0200,"['AWS', 'NodeJS', 'SQL', 'Docker']",43.66,4.9,71
+F0201,"['JavaScript', 'Python', 'NodeJS', 'SQL']",71.79,3.1,70
+F0202,"['NodeJS', 'Django', 'React', 'JavaScript', 'AWS']",15.73,3.7,69
+F0203,"['NodeJS', 'React']",37.69,3.1,71
+F0204,"['NodeJS', 'Django', 'AWS', 'Docker']",81.41,3.7,22
+F0205,"['JavaScript', 'NodeJS', 'Docker', 'AWS', 'SQL']",63.61,3.8,7
+F0206,"['NodeJS', 'Django']",99.24,4.9,63
+F0207,"['Docker', 'JavaScript', 'Python', 'SQL', 'AWS']",79.43,3.7,14
+F0208,"['JavaScript', 'Python', 'SQL', 'Docker']",53.4,4.0,51
+F0209,"['NodeJS', 'AWS', 'Django', 'Docker']",58.35,3.7,5
+F0210,"['AWS', 'Python', 'Docker', 'NodeJS', 'JavaScript']",30.95,3.5,7
+F0211,"['AWS', 'NodeJS']",61.21,3.0,72
+F0212,"['SQL', 'AWS']",79.57,4.2,41
+F0213,"['JavaScript', 'Docker', 'SQL']",24.93,4.3,96
+F0214,"['SQL', 'Docker', 'React', 'AWS', 'Python']",76.98,3.1,41
+F0215,"['JavaScript', 'Docker', 'React', 'Django', 'AWS']",63.6,4.8,90
+F0216,"['Python', 'SQL']",21.89,3.9,85
+F0217,"['AWS', 'JavaScript', 'NodeJS', 'SQL', 'Python']",55.64,3.4,59
+F0218,"['Python', 'JavaScript', 'Django', 'React']",82.67,4.3,33
+F0219,"['Docker', 'Python', 'React']",74.64,3.6,89
+F0220,"['Python', 'React', 'SQL']",44.36,3.8,93
+F0221,"['NodeJS', 'Docker', 'AWS']",89.23,4.2,5
+F0222,"['Python', 'SQL', 'React', 'AWS', 'JavaScript']",59.66,4.1,9
+F0223,"['Django', 'NodeJS', 'AWS']",57.7,3.4,45
+F0224,"['JavaScript', 'Django', 'Python', 'NodeJS']",18.6,4.4,59
+F0225,"['AWS', 'Python', 'Docker']",78.37,3.1,69
+F0226,"['React', 'Docker', 'AWS']",50.42,3.3,97
+F0227,"['Python', 'AWS']",15.77,4.5,19
+F0228,"['JavaScript', 'React']",59.59,4.3,44
+F0229,"['NodeJS', 'SQL', 'Docker', 'AWS']",89.68,4.0,90
+F0230,"['Django', 'AWS', 'SQL', 'Docker']",34.27,4.4,11
+F0231,"['Docker', 'React', 'Django', 'JavaScript', 'SQL']",17.87,4.5,51
+F0232,"['Docker', 'React']",95.03,3.8,7
+F0233,"['React', 'Docker']",21.21,4.8,38
+F0234,"['Django', 'NodeJS']",50.32,4.1,81
+F0235,"['React', 'AWS', 'JavaScript', 'Django']",67.04,4.5,76
+F0236,"['JavaScript', 'Docker', 'AWS', 'React']",98.02,4.5,80
+F0237,"['SQL', 'NodeJS', 'JavaScript', 'Django', 'React']",75.65,4.7,39
+F0238,"['JavaScript', 'Python', 'SQL', 'React']",35.13,3.3,70
+F0239,"['NodeJS', 'SQL', 'React']",81.6,3.6,74
+F0240,"['Django', 'AWS']",79.65,4.4,10
+F0241,"['SQL', 'Django', 'JavaScript', 'React', 'AWS']",79.61,4.1,70
+F0242,"['Python', 'AWS', 'Django', 'JavaScript', 'NodeJS']",64.04,5.0,9
+F0243,"['SQL', 'Django', 'JavaScript', 'NodeJS']",98.33,3.7,91
+F0244,"['Django', 'Docker', 'JavaScript', 'React', 'NodeJS']",17.47,3.9,77
+F0245,"['JavaScript', 'Django', 'React', 'NodeJS', 'Docker']",98.5,4.8,90
+F0246,"['JavaScript', 'React', 'AWS', 'NodeJS', 'Python']",76.9,4.4,61
+F0247,"['Django', 'Python', 'NodeJS', 'React', 'Docker']",86.23,4.0,99
+F0248,"['Python', 'Docker', 'AWS']",69.84,4.2,60
+F0249,"['Docker', 'SQL', 'React', 'JavaScript', 'NodeJS']",25.4,4.7,21
+F0250,"['NodeJS', 'Django', 'Python', 'JavaScript']",65.11,3.7,51
+F0251,"['NodeJS', 'Django', 'AWS']",77.9,3.7,13
+F0252,"['Python', 'Django', 'Docker']",60.98,3.2,19
+F0253,"['Python', 'JavaScript', 'SQL', 'Django']",60.32,3.8,33
+F0254,"['React', 'NodeJS', 'Docker', 'AWS', 'SQL']",43.26,3.4,71
+F0255,"['React', 'Docker', 'AWS']",44.2,3.7,73
+F0256,"['Docker', 'Django', 'React']",32.9,4.4,18
+F0257,"['JavaScript', 'AWS', 'Docker', 'Django']",47.53,4.7,18
+F0258,"['NodeJS', 'Docker']",74.14,4.4,45
+F0259,"['Python', 'NodeJS']",45.71,4.5,94
+F0260,"['JavaScript', 'Django', 'React']",35.97,4.3,39
+F0261,"['Python', 'SQL', 'JavaScript', 'Docker', 'Django']",53.1,3.9,95
+F0262,"['AWS', 'Python', 'NodeJS', 'Django', 'Docker']",46.65,3.3,39
+F0263,"['SQL', 'Docker', 'Django', 'JavaScript']",39.87,3.2,83
+F0264,"['AWS', 'React', 'JavaScript', 'Docker', 'SQL']",94.96,4.8,54
+F0265,"['React', 'JavaScript', 'AWS', 'Django', 'NodeJS']",63.02,3.5,81
+F0266,"['React', 'Python', 'AWS', 'JavaScript']",35.63,3.5,78
+F0267,"['AWS', 'React', 'Django', 'JavaScript']",83.71,4.0,38
+F0268,"['NodeJS', 'React', 'Django', 'AWS']",46.39,4.1,27
+F0269,"['Python', 'NodeJS', 'SQL']",18.93,3.0,13
+F0270,"['Docker', 'AWS', 'Python', 'Django']",44.1,3.6,33
+F0271,"['JavaScript', 'NodeJS', 'React']",91.59,3.6,76
+F0272,"['AWS', 'JavaScript', 'Python']",62.56,3.2,25
+F0273,"['React', 'Python', 'SQL', 'Docker']",20.05,3.9,21
+F0274,"['Python', 'SQL', 'NodeJS', 'JavaScript']",77.85,4.1,81
+F0275,"['AWS', 'Docker', 'NodeJS', 'SQL', 'Django']",53.75,4.7,37
+F0276,"['AWS', 'Python']",54.42,4.2,11
+F0277,"['Python', 'Docker', 'SQL', 'JavaScript', 'NodeJS']",68.1,3.6,69
+F0278,"['Python', 'AWS']",94.82,3.1,63
+F0279,"['JavaScript', 'NodeJS']",18.43,4.1,14
+F0280,"['AWS', 'Django', 'NodeJS', 'Python', 'React']",50.9,4.7,97
+F0281,"['SQL', 'React', 'AWS', 'Python']",26.8,4.8,36
+F0282,"['React', 'NodeJS', 'JavaScript', 'Django', 'SQL']",27.55,3.8,82
+F0283,"['Docker', 'NodeJS', 'SQL', 'React', 'Python']",95.97,4.4,99
+F0284,"['SQL', 'Docker', 'React', 'JavaScript']",23.14,4.8,49
+F0285,"['React', 'NodeJS', 'SQL', 'Django']",73.42,3.4,94
+F0286,"['JavaScript', 'Django', 'AWS']",51.86,4.7,56
+F0287,"['AWS', 'NodeJS', 'Django', 'JavaScript']",60.42,3.0,46
+F0288,"['AWS', 'JavaScript', 'NodeJS', 'Python', 'SQL']",48.68,3.5,86
+F0289,"['Django', 'React', 'Python']",85.4,4.2,47
+F0290,"['Python', 'AWS', 'Docker']",55.01,4.8,9
+F0291,"['Django', 'Python', 'SQL']",77.06,5.0,14
+F0292,"['SQL', 'NodeJS', 'Python']",48.95,3.4,71
+F0293,"['React', 'JavaScript', 'Docker', 'SQL']",79.22,3.4,80
+F0294,"['Docker', 'JavaScript', 'SQL', 'Python']",53.19,4.1,91
+F0295,"['AWS', 'SQL', 'Docker', 'Python']",28.34,4.8,41
+F0296,"['JavaScript', 'Django']",40.42,3.7,37
+F0297,"['Python', 'SQL', 'JavaScript', 'Docker', 'NodeJS']",77.6,3.2,75
+F0298,"['Python', 'Docker', 'NodeJS', 'JavaScript', 'SQL']",40.84,4.3,70
+F0299,"['NodeJS', 'Docker', 'Python', 'JavaScript', 'React']",85.33,3.8,20
+F0300,"['React', 'JavaScript', 'Django', 'AWS', 'SQL']",56.16,3.9,72
+F0301,"['Python', 'NodeJS', 'SQL', 'AWS', 'React']",81.69,3.0,97
+F0302,"['SQL', 'Django', 'Python', 'React']",45.71,4.9,89
+F0303,"['React', 'NodeJS', 'JavaScript', 'SQL', 'Docker']",47.62,4.0,69
+F0304,"['Django', 'JavaScript', 'NodeJS', 'AWS']",57.01,4.1,71
+F0305,"['AWS', 'Python']",87.6,4.3,88
+F0306,"['NodeJS', 'Docker', 'Python', 'React', 'JavaScript']",37.0,4.6,58
+F0307,"['AWS', 'NodeJS', 'React', 'JavaScript']",49.96,4.2,26
+F0308,"['React', 'Docker']",27.96,4.4,56
+F0309,"['Docker', 'Django', 'JavaScript']",34.98,4.5,66
+F0310,"['Docker', 'NodeJS']",41.01,4.0,5
+F0311,"['NodeJS', 'SQL', 'React', 'Docker']",20.54,3.7,46
+F0312,"['NodeJS', 'Docker', 'SQL', 'Python']",73.65,4.8,99
+F0313,"['SQL', 'JavaScript', 'React']",84.74,3.3,100
+F0314,"['React', 'Docker']",35.83,4.2,64
+F0315,"['Python', 'AWS', 'NodeJS']",46.29,4.8,12
+F0316,"['NodeJS', 'React', 'JavaScript', 'Docker']",79.14,3.3,49
+F0317,"['AWS', 'NodeJS', 'SQL', 'Python']",39.07,4.0,43
+F0318,"['NodeJS', 'SQL']",57.0,5.0,9
+F0319,"['NodeJS', 'React']",59.17,4.7,12
+F0320,"['Python', 'NodeJS', 'JavaScript']",22.69,4.3,41
+F0321,"['Docker', 'AWS', 'React', 'JavaScript']",65.25,4.0,97
+F0322,"['Django', 'SQL', 'Python']",61.97,4.9,66
+F0323,"['Docker', 'SQL', 'Python', 'JavaScript', 'React']",48.78,4.4,23
+F0324,"['SQL', 'Docker', 'AWS']",75.88,3.6,19
+F0325,"['React', 'AWS', 'Django']",65.3,4.5,67
+F0326,"['JavaScript', 'Python']",93.55,3.7,55
+F0327,"['SQL', 'Django', 'Python']",19.89,4.5,49
+F0328,"['SQL', 'AWS']",31.16,3.8,24
+F0329,"['Django', 'NodeJS', 'AWS']",48.63,4.2,73
+F0330,"['NodeJS', 'SQL', 'Django', 'Docker']",47.95,3.5,90
+F0331,"['Docker', 'NodeJS', 'Django', 'AWS', 'JavaScript']",91.58,3.3,95
+F0332,"['JavaScript', 'SQL', 'AWS', 'Python']",23.73,4.2,60
+F0333,"['AWS', 'Python', 'Docker', 'React']",97.31,4.2,29
+F0334,"['AWS', 'React', 'JavaScript']",58.1,3.4,87
+F0335,"['Docker', 'React', 'SQL', 'AWS']",57.21,3.3,30
+F0336,"['NodeJS', 'React', 'Docker', 'Python']",69.91,4.6,32
+F0337,"['NodeJS', 'Docker', 'JavaScript', 'React']",63.79,4.3,54
+F0338,"['React', 'Docker', 'NodeJS', 'SQL', 'Django']",41.71,4.9,85
+F0339,"['Django', 'NodeJS', 'Docker', 'JavaScript']",53.34,4.7,28
+F0340,"['AWS', 'JavaScript', 'Docker', 'SQL', 'Python']",62.44,3.6,58
+F0341,"['JavaScript', 'SQL', 'AWS', 'Django', 'Docker']",28.03,4.5,71
+F0342,"['JavaScript', 'Docker', 'Python', 'AWS']",31.83,3.7,10
+F0343,"['React', 'AWS', 'JavaScript']",92.87,4.4,88
+F0344,"['React', 'JavaScript', 'AWS', 'Django']",94.69,3.9,57
+F0345,"['React', 'Django', 'NodeJS']",64.13,4.0,36
+F0346,"['Docker', 'React', 'AWS', 'SQL', 'JavaScript']",54.54,3.3,40
+F0347,"['React', 'SQL', 'Python']",80.22,4.7,58
+F0348,"['SQL', 'React']",86.09,4.7,34
+F0349,"['React', 'AWS', 'Django', 'NodeJS', 'Docker']",95.83,3.7,72
+F0350,"['SQL', 'NodeJS', 'AWS', 'Docker']",61.41,3.8,31
+F0351,"['SQL', 'Django']",33.13,3.4,36
+F0352,"['NodeJS', 'SQL', 'Django']",82.22,5.0,86
+F0353,"['JavaScript', 'Python', 'SQL']",23.1,4.3,23
+F0354,"['React', 'JavaScript', 'Django', 'AWS', 'NodeJS']",32.49,4.1,36
+F0355,"['AWS', 'JavaScript', 'NodeJS', 'React']",69.24,4.4,18
+F0356,"['JavaScript', 'AWS', 'React']",18.09,3.9,57
+F0357,"['Python', 'Django', 'NodeJS']",38.48,4.6,75
+F0358,"['AWS', 'Python', 'NodeJS', 'React']",46.26,4.2,12
+F0359,"['Django', 'JavaScript']",88.34,4.6,11
+F0360,"['AWS', 'Django', 'React', 'JavaScript', 'Python']",61.24,3.9,19
+F0361,"['Python', 'JavaScript', 'Docker', 'Django', 'SQL']",85.41,3.7,59
+F0362,"['Django', 'JavaScript', 'React']",63.75,3.2,77
+F0363,"['Django', 'JavaScript']",58.83,3.6,23
+F0364,"['React', 'Python']",41.64,4.4,47
+F0365,"['NodeJS', 'Django']",38.81,4.9,10
+F0366,"['SQL', 'Docker', 'React', 'Django', 'JavaScript']",76.28,4.2,78
+F0367,"['SQL', 'JavaScript', 'Docker']",81.98,4.2,87
+F0368,"['Django', 'NodeJS', 'SQL']",86.33,4.8,84
+F0369,"['NodeJS', 'AWS', 'JavaScript', 'SQL', 'React']",15.41,3.6,97
+F0370,"['Python', 'NodeJS', 'JavaScript']",91.14,4.6,41
+F0371,"['AWS', 'SQL']",90.64,3.9,76
+F0372,"['SQL', 'React', 'AWS']",32.18,4.3,54
+F0373,"['JavaScript', 'React', 'NodeJS']",90.11,4.2,35
+F0374,"['React', 'Django']",28.66,3.7,42
+F0375,"['Django', 'AWS', 'Python']",66.31,4.6,72
+F0376,"['AWS', 'Django']",83.99,4.5,97
+F0377,"['AWS', 'Django', 'NodeJS', 'SQL', 'React']",89.05,3.9,63
+F0378,"['SQL', 'React', 'Python', 'JavaScript', 'NodeJS']",50.66,4.3,48
+F0379,"['AWS', 'Django', 'Python', 'NodeJS']",56.92,3.7,21
+F0380,"['NodeJS', 'AWS', 'JavaScript']",27.28,4.8,14
+F0381,"['AWS', 'Python', 'React']",74.93,3.8,82
+F0382,"['AWS', 'Django', 'NodeJS', 'JavaScript', 'Python']",40.22,5.0,88
+F0383,"['SQL', 'Docker']",61.48,4.7,69
+F0384,"['Django', 'JavaScript']",91.84,3.2,25
+F0385,"['Docker', 'NodeJS', 'Django']",42.67,4.5,83
+F0386,"['Python', 'JavaScript', 'Docker', 'NodeJS', 'SQL']",71.16,3.0,71
+F0387,"['Python', 'Docker', 'AWS', 'SQL']",25.15,3.1,97
+F0388,"['SQL', 'Django', 'AWS', 'NodeJS']",86.27,3.8,49
+F0389,"['JavaScript', 'Python', 'SQL', 'AWS']",28.97,4.0,44
+F0390,"['Django', 'SQL', 'NodeJS', 'Docker']",87.24,4.9,45
+F0391,"['AWS', 'NodeJS', 'React']",20.32,3.6,92
+F0392,"['AWS', 'JavaScript']",82.27,4.4,57
+F0393,"['SQL', 'Django', 'JavaScript', 'Docker']",74.41,3.1,84
+F0394,"['Python', 'SQL', 'JavaScript']",38.19,4.7,50
+F0395,"['NodeJS', 'React', 'AWS', 'Python', 'Django']",37.83,3.2,64
+F0396,"['NodeJS', 'Python', 'Django']",63.87,3.5,44
+F0397,"['Docker', 'NodeJS', 'SQL', 'AWS', 'Django']",72.18,4.2,16
+F0398,"['Django', 'SQL', 'NodeJS', 'AWS', 'JavaScript']",83.71,3.0,55
+F0399,"['Docker', 'Django', 'AWS', 'SQL', 'JavaScript']",43.94,3.4,68
+F0400,"['NodeJS', 'Python', 'SQL']",34.3,4.4,84
+F0401,"['React', 'SQL']",89.03,3.1,10
+F0402,"['Python', 'Docker']",27.2,4.0,46
+F0403,"['NodeJS', 'AWS', 'React', 'Django']",84.94,4.9,76
+F0404,"['NodeJS', 'Python', 'JavaScript', 'AWS']",40.39,3.2,65
+F0405,"['AWS', 'Python', 'Docker']",42.23,4.5,48
+F0406,"['AWS', 'Docker', 'NodeJS', 'JavaScript']",57.8,3.2,64
+F0407,"['Docker', 'React', 'SQL', 'AWS']",61.0,3.3,31
+F0408,"['React', 'SQL']",91.35,3.6,71
+F0409,"['Python', 'React', 'Django']",75.06,3.7,81
+F0410,"['Docker', 'JavaScript', 'Django']",93.15,3.8,86
+F0411,"['SQL', 'React', 'NodeJS', 'Docker', 'AWS']",98.31,3.5,94
+F0412,"['AWS', 'React', 'NodeJS', 'Python', 'Django']",85.89,4.4,82
+F0413,"['Django', 'AWS', 'SQL']",40.05,3.4,78
+F0414,"['NodeJS', 'Python', 'Docker']",95.89,3.5,6
+F0415,"['Python', 'JavaScript', 'Django', 'Docker', 'NodeJS']",88.43,3.8,75
+F0416,"['NodeJS', 'JavaScript']",97.92,3.7,96
+F0417,"['Django', 'Docker', 'React']",26.99,3.2,11
+F0418,"['SQL', 'JavaScript', 'Python', 'Django']",42.76,3.4,20
+F0419,"['AWS', 'JavaScript', 'Python']",56.08,3.4,9
+F0420,"['AWS', 'Python']",36.41,4.6,8
+F0421,"['NodeJS', 'Python', 'Docker', 'Django', 'JavaScript']",64.43,4.1,86
+F0422,"['Docker', 'SQL', 'JavaScript']",63.34,4.0,9
+F0423,"['JavaScript', 'React', 'AWS', 'Django', 'Python']",94.39,3.6,12
+F0424,"['SQL', 'AWS', 'Django', 'NodeJS']",75.75,3.4,12
+F0425,"['SQL', 'Docker', 'Django', 'JavaScript']",31.83,3.7,96
+F0426,"['AWS', 'NodeJS', 'Docker', 'JavaScript']",69.54,3.3,18
+F0427,"['Django', 'Docker', 'AWS', 'NodeJS']",51.46,4.0,59
+F0428,"['NodeJS', 'JavaScript', 'React', 'SQL']",77.72,4.1,60
+F0429,"['Python', 'SQL']",22.74,4.5,41
+F0430,"['Django', 'SQL', 'JavaScript']",43.64,3.9,25
+F0431,"['JavaScript', 'AWS']",69.63,4.8,39
+F0432,"['JavaScript', 'Python', 'Docker', 'NodeJS']",43.85,3.2,66
+F0433,"['JavaScript', 'AWS', 'Django']",50.59,3.2,35
+F0434,"['JavaScript', 'Django', 'SQL', 'React', 'AWS']",15.54,4.1,18
+F0435,"['JavaScript', 'React', 'Django', 'Python']",25.07,3.8,31
+F0436,"['React', 'Django', 'SQL', 'Python', 'Docker']",82.94,3.4,38
+F0437,"['React', 'Python', 'JavaScript', 'Django']",64.41,4.6,36
+F0438,"['AWS', 'Django']",50.69,3.3,12
+F0439,"['React', 'Python']",68.2,3.1,25
+F0440,"['SQL', 'Docker', 'JavaScript', 'AWS', 'Django']",84.57,4.6,46
+F0441,"['Django', 'Python']",99.01,3.1,93
+F0442,"['React', 'Python', 'JavaScript', 'Django']",58.33,4.7,80
+F0443,"['SQL', 'NodeJS', 'JavaScript']",91.42,3.2,80
+F0444,"['Django', 'AWS', 'SQL', 'Docker', 'NodeJS']",41.62,4.7,18
+F0445,"['JavaScript', 'Python']",24.0,3.0,46
+F0446,"['SQL', 'Docker', 'JavaScript', 'Django']",92.1,4.3,100
+F0447,"['JavaScript', 'SQL', 'React']",39.07,3.1,23
+F0448,"['SQL', 'React', 'Django', 'Docker', 'NodeJS']",83.75,3.9,10
+F0449,"['React', 'JavaScript', 'SQL', 'Docker', 'AWS']",66.19,3.5,80
+F0450,"['JavaScript', 'SQL']",33.74,4.4,59
+F0451,"['Django', 'React', 'JavaScript', 'AWS']",59.79,4.0,90
+F0452,"['NodeJS', 'SQL', 'Docker', 'JavaScript', 'Django']",64.8,3.5,59
+F0453,"['React', 'JavaScript', 'AWS', 'Docker']",61.41,3.1,95
+F0454,"['NodeJS', 'AWS']",67.75,4.9,71
+F0455,"['Django', 'SQL', 'JavaScript', 'AWS', 'React']",67.6,4.0,53
+F0456,"['Django', 'JavaScript', 'NodeJS', 'React']",69.48,3.9,49
+F0457,"['Python', 'JavaScript']",98.35,4.2,32
+F0458,"['JavaScript', 'Python']",33.83,4.0,93
+F0459,"['SQL', 'Docker']",74.74,4.5,36
+F0460,"['NodeJS', 'Django', 'JavaScript', 'Python', 'AWS']",58.49,5.0,43
+F0461,"['Docker', 'AWS']",79.26,4.0,56
+F0462,"['NodeJS', 'JavaScript', 'Docker']",72.76,4.9,43
+F0463,"['Docker', 'SQL']",77.24,4.7,22
+F0464,"['Docker', 'NodeJS', 'Python', 'Django', 'JavaScript']",62.93,3.0,62
+F0465,"['AWS', 'Django', 'SQL']",55.88,3.8,45
+F0466,"['JavaScript', 'Django']",69.91,3.0,65
+F0467,"['SQL', 'Django', 'NodeJS']",89.26,3.8,68
+F0468,"['React', 'Django', 'Docker', 'NodeJS', 'SQL']",52.18,3.9,89
+F0469,"['Python', 'NodeJS', 'Django', 'Docker', 'SQL']",67.13,3.9,5
+F0470,"['Docker', 'NodeJS', 'SQL']",34.81,3.9,7
+F0471,"['JavaScript', 'Django', 'SQL', 'React', 'Python']",38.77,4.6,31
+F0472,"['SQL', 'Docker', 'Python', 'NodeJS', 'Django']",17.17,3.5,42
+F0473,"['SQL', 'Python', 'Django', 'JavaScript']",27.49,3.4,38
+F0474,"['Python', 'AWS', 'NodeJS', 'JavaScript']",17.96,3.1,19
+F0475,"['React', 'AWS', 'Python', 'Docker']",31.66,3.5,95
+F0476,"['SQL', 'Django', 'Python', 'Docker']",58.76,4.8,68
+F0477,"['Python', 'NodeJS', 'AWS', 'Docker', 'Django']",18.94,4.0,34
+F0478,"['Django', 'AWS', 'Python', 'React', 'NodeJS']",40.0,4.4,43
+F0479,"['React', 'Python']",43.09,3.6,11
+F0480,"['SQL', 'AWS', 'React']",46.51,4.4,82
+F0481,"['NodeJS', 'Docker']",84.47,4.6,65
+F0482,"['NodeJS', 'Docker', 'JavaScript', 'AWS']",25.84,5.0,80
+F0483,"['Docker', 'JavaScript', 'AWS', 'NodeJS']",88.62,4.0,95
+F0484,"['Docker', 'Django', 'JavaScript', 'AWS']",97.58,4.1,61
+F0485,"['AWS', 'Python', 'SQL']",38.06,3.9,23
+F0486,"['Docker', 'AWS', 'JavaScript', 'Django']",73.79,4.1,7
+F0487,"['NodeJS', 'Python', 'SQL', 'JavaScript', 'AWS']",78.19,3.6,53
+F0488,"['NodeJS', 'JavaScript', 'Django']",27.79,5.0,13
+F0489,"['AWS', 'SQL', 'Python']",31.29,4.0,7
+F0490,"['Django', 'React']",44.18,3.5,34
+F0491,"['AWS', 'JavaScript', 'React']",33.89,4.0,35
+F0492,"['AWS', 'SQL', 'Django']",49.07,4.7,47
+F0493,"['NodeJS', 'Python']",49.61,4.4,20
+F0494,"['AWS', 'NodeJS', 'Python']",27.12,3.9,80
+F0495,"['SQL', 'Docker']",58.16,3.5,54
+F0496,"['React', 'SQL', 'Python', 'AWS', 'Django']",53.01,4.5,88
+F0497,"['NodeJS', 'React']",85.13,4.5,88
+F0498,"['React', 'SQL', 'Python']",92.18,3.3,93
+F0499,"['Python', 'SQL', 'React', 'NodeJS']",80.99,4.7,96
+F0500,"['Docker', 'AWS', 'NodeJS', 'Django']",28.59,4.3,9
+F0501,"['NodeJS', 'React', 'SQL', 'Python']",79.08,4.5,58
+F0502,"['Python', 'Docker', 'JavaScript']",19.33,3.4,83
+F0503,"['JavaScript', 'SQL', 'Django', 'AWS', 'React']",24.88,4.1,57
+F0504,"['NodeJS', 'AWS']",77.17,3.7,88
+F0505,"['Django', 'SQL', 'Docker', 'AWS']",56.78,4.3,45
+F0506,"['SQL', 'JavaScript', 'Django', 'AWS']",48.22,4.3,36
+F0507,"['JavaScript', 'SQL', 'React', 'AWS', 'Django']",84.83,3.1,66
+F0508,"['JavaScript', 'NodeJS']",47.97,3.4,44
+F0509,"['Django', 'Docker']",40.06,4.8,10
+F0510,"['Django', 'Docker', 'JavaScript', 'AWS']",51.29,3.0,62
+F0511,"['Python', 'JavaScript', 'Docker']",42.19,4.6,24
+F0512,"['JavaScript', 'React', 'Django', 'Python']",97.05,3.6,43
+F0513,"['Django', 'Docker', 'JavaScript']",68.75,3.4,73
+F0514,"['React', 'Docker', 'NodeJS', 'SQL', 'Django']",39.45,4.5,78
+F0515,"['SQL', 'Django']",47.47,4.8,68
+F0516,"['Python', 'JavaScript', 'React', 'AWS', 'NodeJS']",34.61,4.1,64
+F0517,"['SQL', 'AWS', 'Docker', 'React']",99.36,3.4,63
+F0518,"['JavaScript', 'SQL', 'NodeJS', 'Docker']",70.32,4.5,70
+F0519,"['NodeJS', 'React', 'Django', 'AWS']",16.58,3.3,19
+F0520,"['Django', 'NodeJS']",30.2,3.2,38
+F0521,"['SQL', 'NodeJS', 'Python', 'AWS', 'Django']",68.67,5.0,90
+F0522,"['AWS', 'Python', 'Docker', 'React', 'SQL']",15.09,3.4,8
+F0523,"['AWS', 'NodeJS', 'Python', 'Docker', 'Django']",97.02,3.4,29
+F0524,"['NodeJS', 'Docker', 'Django']",19.58,4.9,30
+F0525,"['React', 'SQL']",38.67,3.5,53
+F0526,"['Docker', 'Python', 'SQL', 'AWS', 'React']",31.18,3.4,88
+F0527,"['React', 'SQL', 'Django', 'NodeJS', 'Python']",15.06,4.5,63
+F0528,"['React', 'Python', 'Django']",98.93,3.4,13
+F0529,"['SQL', 'NodeJS', 'React', 'AWS']",18.98,3.5,36
+F0530,"['Python', 'Docker', 'SQL', 'AWS']",47.87,4.1,28
+F0531,"['Docker', 'SQL']",59.88,4.1,34
+F0532,"['React', 'JavaScript']",63.75,4.3,85
+F0533,"['Python', 'React']",63.83,5.0,71
+F0534,"['React', 'SQL', 'Django', 'Docker', 'JavaScript']",19.47,4.3,9
+F0535,"['React', 'Docker', 'AWS', 'JavaScript']",97.38,4.2,70
+F0536,"['Python', 'Docker']",59.26,3.6,42
+F0537,"['JavaScript', 'NodeJS', 'Python', 'SQL']",75.12,4.4,38
+F0538,"['Docker', 'Django', 'NodeJS']",27.15,3.4,23
+F0539,"['NodeJS', 'React', 'Python', 'SQL']",97.51,3.6,91
+F0540,"['Django', 'JavaScript']",77.17,4.0,34
+F0541,"['Python', 'Docker', 'AWS', 'SQL']",82.25,3.2,22
+F0542,"['JavaScript', 'Docker']",17.98,3.7,79
+F0543,"['NodeJS', 'React']",25.78,4.3,100
+F0544,"['AWS', 'Python', 'NodeJS', 'JavaScript', 'Docker']",75.53,3.2,55
+F0545,"['SQL', 'React', 'JavaScript', 'NodeJS']",58.02,4.1,19
+F0546,"['Python', 'JavaScript', 'NodeJS', 'React']",61.27,3.7,51
+F0547,"['Python', 'AWS', 'Django']",33.58,3.6,27
+F0548,"['Python', 'Django', 'AWS', 'Docker', 'JavaScript']",67.77,3.7,53
+F0549,"['AWS', 'Django', 'SQL', 'NodeJS', 'JavaScript']",49.41,4.8,53
+F0550,"['SQL', 'Docker', 'JavaScript', 'AWS']",29.76,5.0,100
+F0551,"['JavaScript', 'Django', 'Python', 'AWS']",45.48,4.9,8
+F0552,"['AWS', 'Docker', 'React']",68.47,3.3,10
+F0553,"['Django', 'AWS', 'SQL', 'Python']",87.31,4.2,96
+F0554,"['Docker', 'AWS', 'Django', 'React']",33.7,4.1,18
+F0555,"['JavaScript', 'Docker', 'Python']",95.89,4.8,62
+F0556,"['Docker', 'React', 'SQL', 'JavaScript', 'Django']",48.28,4.8,78
+F0557,"['AWS', 'Django', 'SQL', 'JavaScript']",71.93,3.3,58
+F0558,"['Python', 'Docker', 'NodeJS', 'React']",66.33,3.1,59
+F0559,"['SQL', 'JavaScript']",88.2,4.7,46
+F0560,"['Python', 'React', 'JavaScript', 'AWS', 'Django']",93.84,4.3,97
+F0561,"['AWS', 'Python', 'Docker']",75.51,3.2,73
+F0562,"['NodeJS', 'AWS']",40.16,4.1,53
+F0563,"['React', 'NodeJS', 'Django']",51.23,4.9,7
+F0564,"['React', 'Django', 'Docker']",55.51,4.8,93
+F0565,"['Django', 'NodeJS', 'JavaScript', 'Docker', 'SQL']",98.66,3.4,72
+F0566,"['NodeJS', 'SQL', 'React', 'JavaScript', 'AWS']",88.83,4.7,68
+F0567,"['NodeJS', 'Django', 'SQL']",44.37,3.7,92
+F0568,"['Python', 'Django', 'SQL', 'React', 'NodeJS']",57.0,3.9,31
+F0569,"['NodeJS', 'JavaScript', 'AWS', 'Docker']",81.97,4.5,74
+F0570,"['SQL', 'React']",94.14,3.7,76
+F0571,"['AWS', 'Docker', 'SQL', 'React', 'JavaScript']",67.59,3.1,11
+F0572,"['Django', 'AWS', 'SQL', 'Docker', 'NodeJS']",81.71,4.6,5
+F0573,"['Django', 'Docker', 'AWS', 'SQL', 'NodeJS']",57.0,4.8,64
+F0574,"['Docker', 'JavaScript', 'Django', 'Python', 'React']",98.52,4.1,44
+F0575,"['NodeJS', 'AWS', 'Python', 'SQL', 'React']",62.82,4.4,42
+F0576,"['Docker', 'AWS', 'JavaScript']",39.51,4.2,73
+F0577,"['SQL', 'Python', 'AWS']",83.21,3.1,31
+F0578,"['React', 'SQL', 'Docker']",72.58,3.0,61
+F0579,"['Django', 'NodeJS']",48.68,4.8,54
+F0580,"['AWS', 'SQL', 'NodeJS']",47.87,3.3,8
+F0581,"['SQL', 'JavaScript', 'Python', 'Docker']",36.63,3.5,78
+F0582,"['Docker', 'SQL', 'AWS']",65.78,4.0,85
+F0583,"['SQL', 'Python']",69.19,3.8,53
+F0584,"['React', 'JavaScript', 'AWS']",96.5,4.1,78
+F0585,"['JavaScript', 'Django', 'Python']",37.93,4.2,91
+F0586,"['AWS', 'SQL']",58.34,3.4,24
+F0587,"['AWS', 'JavaScript', 'React', 'Python', 'SQL']",30.6,3.2,22
+F0588,"['Docker', 'AWS', 'Django', 'JavaScript', 'Python']",62.22,3.6,39
+F0589,"['SQL', 'Docker', 'JavaScript']",23.58,3.7,50
+F0590,"['SQL', 'React', 'AWS', 'Python', 'NodeJS']",68.83,3.4,26
+F0591,"['AWS', 'JavaScript', 'Django']",74.38,3.9,51
+F0592,"['Django', 'JavaScript', 'Python', 'NodeJS']",46.61,4.6,48
+F0593,"['AWS', 'React', 'Django', 'NodeJS', 'JavaScript']",76.91,3.1,68
+F0594,"['SQL', 'JavaScript']",55.55,3.4,69
+F0595,"['AWS', 'React']",49.46,5.0,76
+F0596,"['Python', 'NodeJS', 'JavaScript', 'SQL']",45.79,4.4,28
+F0597,"['AWS', 'SQL', 'NodeJS', 'Docker', 'Python']",54.77,3.5,13
+F0598,"['React', 'AWS', 'Docker']",91.69,4.3,65
+F0599,"['SQL', 'NodeJS', 'Docker', 'JavaScript', 'React']",83.99,4.6,75
+F0600,"['JavaScript', 'Django']",86.43,4.7,25
+F0601,"['JavaScript', 'NodeJS', 'Docker', 'SQL', 'Python']",84.65,3.0,84
+F0602,"['React', 'AWS']",89.66,3.4,15
+F0603,"['React', 'Docker']",90.88,3.5,11
+F0604,"['AWS', 'React']",55.74,4.2,97
+F0605,"['JavaScript', 'SQL', 'Django', 'AWS']",58.18,3.4,27
+F0606,"['NodeJS', 'SQL', 'JavaScript']",58.73,3.9,36
+F0607,"['JavaScript', 'Docker', 'NodeJS']",69.33,4.8,5
+F0608,"['React', 'NodeJS', 'Docker', 'Django']",39.6,4.6,86
+F0609,"['JavaScript', 'React', 'AWS', 'SQL', 'Python']",52.46,4.1,96
+F0610,"['AWS', 'JavaScript', 'Python', 'React', 'Django']",80.34,3.3,88
+F0611,"['Python', 'Django', 'NodeJS']",95.28,4.2,74
+F0612,"['JavaScript', 'React', 'SQL']",73.69,3.2,99
+F0613,"['React', 'NodeJS', 'AWS', 'Docker']",27.24,4.0,72
+F0614,"['JavaScript', 'Django']",45.16,4.4,89
+F0615,"['NodeJS', 'Python', 'Docker', 'SQL']",29.74,3.1,37
+F0616,"['JavaScript', 'SQL', 'AWS', 'Django']",16.9,3.8,43
+F0617,"['NodeJS', 'AWS', 'Django', 'JavaScript']",74.74,5.0,75
+F0618,"['Python', 'JavaScript', 'SQL', 'Docker']",16.61,4.0,84
+F0619,"['AWS', 'Django']",20.95,3.4,87
+F0620,"['Django', 'Python', 'Docker', 'NodeJS', 'React']",17.72,3.9,12
+F0621,"['JavaScript', 'Docker']",84.46,4.0,6
+F0622,"['Django', 'Docker', 'JavaScript']",63.83,4.0,10
+F0623,"['NodeJS', 'JavaScript', 'Docker']",73.5,3.2,44
+F0624,"['React', 'JavaScript']",43.59,3.7,53
+F0625,"['Python', 'React', 'NodeJS', 'JavaScript', 'SQL']",35.38,3.3,70
+F0626,"['Python', 'Docker', 'JavaScript', 'React']",79.69,3.4,88
+F0627,"['SQL', 'Docker', 'NodeJS', 'Django']",66.29,3.6,53
+F0628,"['Docker', 'Python', 'React', 'JavaScript', 'AWS']",23.53,4.3,12
+F0629,"['SQL', 'NodeJS']",45.18,4.5,72
+F0630,"['NodeJS', 'AWS', 'React']",21.89,3.2,34
+F0631,"['SQL', 'React']",92.6,4.6,94
+F0632,"['JavaScript', 'Docker']",38.45,3.2,71
+F0633,"['Django', 'Python', 'NodeJS']",31.24,3.3,5
+F0634,"['NodeJS', 'AWS']",23.38,4.0,77
+F0635,"['NodeJS', 'SQL']",31.8,4.9,90
+F0636,"['JavaScript', 'SQL', 'Django', 'NodeJS']",48.8,3.1,17
+F0637,"['SQL', 'Python', 'Django']",26.83,3.7,90
+F0638,"['NodeJS', 'AWS', 'React', 'Django']",21.26,4.3,11
+F0639,"['SQL', 'Docker', 'JavaScript', 'AWS']",89.28,4.5,73
+F0640,"['SQL', 'Docker']",81.89,4.5,56
+F0641,"['SQL', 'NodeJS', 'JavaScript']",93.5,3.7,83
+F0642,"['AWS', 'Django']",72.68,3.3,90
+F0643,"['NodeJS', 'React']",84.41,3.6,90
+F0644,"['SQL', 'JavaScript', 'NodeJS', 'Django', 'Docker']",18.19,3.2,94
+F0645,"['AWS', 'Django', 'JavaScript']",69.51,4.5,57
+F0646,"['Django', 'JavaScript', 'Docker', 'SQL', 'NodeJS']",63.94,3.5,38
+F0647,"['NodeJS', 'Python', 'Django', 'React']",17.54,4.1,54
+F0648,"['NodeJS', 'Python', 'AWS', 'Docker', 'Django']",64.32,4.1,46
+F0649,"['Python', 'JavaScript', 'Docker']",19.99,3.6,48
+F0650,"['Docker', 'React']",88.09,3.7,57
+F0651,"['AWS', 'React', 'Python', 'Django', 'JavaScript']",72.19,3.3,55
+F0652,"['React', 'JavaScript', 'NodeJS', 'AWS']",22.93,4.9,19
+F0653,"['SQL', 'Docker', 'Django']",78.19,3.4,96
+F0654,"['NodeJS', 'JavaScript']",57.34,4.2,77
+F0655,"['SQL', 'JavaScript', 'NodeJS', 'AWS', 'Python']",65.48,3.8,79
+F0656,"['JavaScript', 'React', 'Docker']",26.71,3.7,12
+F0657,"['Python', 'JavaScript', 'NodeJS', 'SQL']",67.46,4.5,20
+F0658,"['AWS', 'Docker']",60.08,3.5,85
+F0659,"['NodeJS', 'Django', 'JavaScript', 'AWS', 'React']",65.51,3.6,84
+F0660,"['React', 'SQL', 'AWS', 'Django']",42.27,4.6,40
+F0661,"['Django', 'AWS', 'JavaScript', 'Python', 'React']",72.05,3.7,24
+F0662,"['Docker', 'NodeJS', 'Django', 'React', 'JavaScript']",28.53,4.0,43
+F0663,"['AWS', 'Docker', 'NodeJS', 'Django']",90.91,4.9,56
+F0664,"['JavaScript', 'Docker', 'React', 'NodeJS', 'AWS']",81.04,4.2,80
+F0665,"['React', 'Docker']",21.8,4.0,24
+F0666,"['Docker', 'AWS']",63.66,4.8,56
+F0667,"['SQL', 'Django', 'Python']",26.83,4.6,45
+F0668,"['React', 'AWS']",52.13,4.4,40
+F0669,"['Docker', 'React', 'AWS', 'JavaScript']",49.78,3.8,62
+F0670,"['SQL', 'AWS', 'React']",58.45,5.0,43
+F0671,"['Docker', 'NodeJS', 'JavaScript']",32.5,4.8,29
+F0672,"['NodeJS', 'Python', 'AWS', 'Docker', 'SQL']",45.79,3.6,21
+F0673,"['Django', 'Docker']",97.11,3.1,69
+F0674,"['SQL', 'Docker']",78.04,4.1,13
+F0675,"['React', 'Docker', 'Django']",24.99,4.3,40
+F0676,"['React', 'Docker']",32.95,4.7,57
+F0677,"['Docker', 'NodeJS', 'JavaScript']",32.47,3.7,21
+F0678,"['AWS', 'Python', 'JavaScript']",37.53,4.5,34
+F0679,"['AWS', 'NodeJS', 'Django', 'React']",45.46,4.9,97
+F0680,"['Django', 'Python', 'JavaScript', 'Docker']",73.52,3.1,79
+F0681,"['NodeJS', 'Django', 'AWS', 'JavaScript']",26.23,4.8,52
+F0682,"['SQL', 'React', 'Docker', 'Django']",38.41,4.9,30
+F0683,"['React', 'SQL', 'Python', 'Django', 'NodeJS']",19.73,3.0,82
+F0684,"['Django', 'Docker', 'SQL', 'NodeJS', 'Python']",83.07,4.6,20
+F0685,"['NodeJS', 'Python', 'AWS', 'JavaScript', 'React']",26.97,4.5,75
+F0686,"['Django', 'AWS', 'Python']",20.53,4.5,39
+F0687,"['AWS', 'Docker', 'JavaScript', 'Python', 'NodeJS']",40.8,3.5,99
+F0688,"['Docker', 'NodeJS', 'React']",32.3,3.5,98
+F0689,"['NodeJS', 'SQL', 'AWS']",39.2,4.2,87
+F0690,"['React', 'SQL', 'Django', 'JavaScript', 'Python']",43.74,4.6,42
+F0691,"['Django', 'Python', 'Docker']",53.74,4.3,8
+F0692,"['AWS', 'JavaScript', 'React', 'Python']",63.86,3.3,7
+F0693,"['Docker', 'AWS', 'SQL']",33.86,3.5,68
+F0694,"['React', 'SQL']",37.92,4.8,22
+F0695,"['React', 'AWS']",41.7,3.1,100
+F0696,"['Docker', 'React', 'Python', 'Django', 'SQL']",37.07,5.0,27
+F0697,"['React', 'JavaScript']",18.69,4.9,94
+F0698,"['NodeJS', 'Python']",77.41,3.2,100
+F0699,"['SQL', 'React', 'AWS']",68.22,4.7,58
+F0700,"['Python', 'Docker']",64.02,4.3,37
+F0701,"['Docker', 'AWS', 'Python', 'JavaScript', 'NodeJS']",66.26,3.8,45
+F0702,"['Docker', 'NodeJS']",98.89,3.8,77
+F0703,"['SQL', 'React']",48.22,4.9,5
+F0704,"['Django', 'React', 'Python', 'AWS', 'Docker']",60.07,4.9,39
+F0705,"['JavaScript', 'React', 'Django', 'Python', 'NodeJS']",49.73,4.4,60
+F0706,"['SQL', 'Python', 'NodeJS']",29.76,3.1,28
+F0707,"['Docker', 'JavaScript', 'React', 'SQL', 'NodeJS']",99.21,3.0,69
+F0708,"['Python', 'Django', 'NodeJS']",65.08,3.2,9
+F0709,"['AWS', 'NodeJS', 'React', 'JavaScript']",52.92,4.7,91
+F0710,"['React', 'SQL']",71.11,4.3,93
+F0711,"['AWS', 'Django', 'Python', 'Docker', 'SQL']",30.61,4.4,69
+F0712,"['SQL', 'JavaScript', 'NodeJS', 'AWS']",81.13,4.2,20
+F0713,"['Django', 'Docker', 'NodeJS']",34.71,3.9,65
+F0714,"['React', 'NodeJS', 'JavaScript', 'Docker']",56.16,4.0,92
+F0715,"['NodeJS', 'JavaScript', 'Django', 'Python', 'Docker']",58.44,3.8,25
+F0716,"['Django', 'SQL', 'Docker', 'Python', 'React']",95.9,3.7,67
+F0717,"['React', 'SQL', 'Python', 'AWS', 'Docker']",48.43,5.0,59
+F0718,"['NodeJS', 'Python']",49.51,4.0,91
+F0719,"['NodeJS', 'AWS', 'Python', 'SQL']",72.64,4.1,67
+F0720,"['Django', 'SQL', 'AWS', 'JavaScript']",56.61,3.4,81
+F0721,"['SQL', 'React', 'NodeJS']",99.18,3.2,62
+F0722,"['Docker', 'NodeJS', 'Python', 'React', 'JavaScript']",63.69,4.8,96
+F0723,"['Docker', 'JavaScript', 'NodeJS', 'Python', 'React']",48.1,3.9,46
+F0724,"['AWS', 'SQL', 'Docker', 'Django']",91.55,4.0,39
+F0725,"['Django', 'React', 'Docker', 'JavaScript', 'NodeJS']",71.82,4.1,70
+F0726,"['JavaScript', 'NodeJS', 'SQL']",52.27,3.7,14
+F0727,"['Python', 'NodeJS', 'React']",80.69,4.8,89
+F0728,"['JavaScript', 'SQL']",65.34,4.3,76
+F0729,"['Docker', 'Django', 'SQL', 'JavaScript', 'React']",46.36,3.7,21
+F0730,"['SQL', 'JavaScript']",75.2,3.9,73
+F0731,"['SQL', 'Django', 'JavaScript', 'React', 'Python']",30.09,3.9,73
+F0732,"['React', 'JavaScript']",81.82,5.0,99
+F0733,"['SQL', 'AWS', 'Python']",28.24,4.8,43
+F0734,"['Django', 'SQL', 'React', 'Python']",87.5,4.9,17
+F0735,"['SQL', 'AWS', 'Docker', 'Django']",68.69,4.6,86
+F0736,"['Docker', 'SQL', 'JavaScript']",94.81,3.1,27
+F0737,"['React', 'Docker', 'AWS']",95.8,4.6,10
+F0738,"['Django', 'JavaScript', 'SQL', 'React']",87.57,3.2,85
+F0739,"['AWS', 'Django']",22.73,4.3,82
+F0740,"['React', 'Docker', 'AWS']",72.87,4.8,13
+F0741,"['JavaScript', 'SQL', 'Docker']",18.21,4.7,88
+F0742,"['Docker', 'Django', 'React', 'AWS']",66.57,3.1,82
+F0743,"['SQL', 'JavaScript']",34.5,3.3,91
+F0744,"['AWS', 'Python', 'SQL', 'JavaScript']",50.54,4.3,56
+F0745,"['JavaScript', 'AWS', 'SQL']",23.66,3.3,93
+F0746,"['JavaScript', 'React', 'SQL', 'Django', 'AWS']",77.4,3.7,55
+F0747,"['React', 'NodeJS', 'JavaScript']",67.63,3.2,14
+F0748,"['NodeJS', 'JavaScript', 'React', 'SQL', 'Python']",88.09,4.2,78
+F0749,"['NodeJS', 'Django', 'AWS', 'Docker']",29.42,3.7,84
+F0750,"['React', 'AWS']",61.76,3.8,43
+F0751,"['Python', 'Django', 'SQL', 'Docker', 'JavaScript']",17.92,4.8,41
+F0752,"['JavaScript', 'Python', 'AWS', 'React', 'Docker']",63.84,4.5,51
+F0753,"['Django', 'AWS', 'JavaScript', 'Python']",46.44,4.3,83
+F0754,"['Python', 'Docker', 'NodeJS', 'JavaScript']",67.14,4.7,86
+F0755,"['NodeJS', 'Docker']",58.55,4.5,97
+F0756,"['Docker', 'NodeJS', 'AWS', 'Django', 'React']",59.16,3.8,46
+F0757,"['JavaScript', 'Django', 'Docker', 'SQL']",64.69,3.9,19
+F0758,"['AWS', 'React', 'JavaScript']",88.6,3.8,44
+F0759,"['JavaScript', 'Django', 'React', 'Python', 'NodeJS']",25.12,3.2,12
+F0760,"['Django', 'JavaScript', 'SQL', 'Docker', 'AWS']",71.82,3.0,29
+F0761,"['Django', 'NodeJS', 'Docker', 'JavaScript']",29.1,3.6,85
+F0762,"['SQL', 'Django', 'React', 'Docker', 'NodeJS']",79.43,3.5,81
+F0763,"['React', 'Python']",87.3,4.5,57
+F0764,"['Python', 'Docker', 'AWS', 'SQL', 'JavaScript']",88.48,4.2,17
+F0765,"['AWS', 'React', 'Python', 'JavaScript']",28.19,4.9,64
+F0766,"['NodeJS', 'AWS', 'Django', 'Python', 'JavaScript']",76.19,3.8,61
+F0767,"['React', 'NodeJS', 'Python']",72.83,4.7,29
+F0768,"['JavaScript', 'React', 'Docker']",42.58,4.4,22
+F0769,"['JavaScript', 'Django', 'AWS', 'Python']",97.0,3.6,61
+F0770,"['AWS', 'Django', 'SQL', 'NodeJS']",55.48,4.3,96
+F0771,"['SQL', 'Django']",72.21,3.9,15
+F0772,"['Docker', 'SQL']",75.34,3.4,47
+F0773,"['AWS', 'React', 'Django', 'JavaScript']",47.05,4.5,32
+F0774,"['React', 'JavaScript', 'AWS', 'Django']",70.85,4.0,71
+F0775,"['Docker', 'JavaScript', 'AWS', 'SQL']",80.05,4.9,55
+F0776,"['Docker', 'JavaScript', 'React', 'NodeJS', 'Python']",93.53,3.1,60
+F0777,"['SQL', 'Docker', 'JavaScript']",73.44,3.6,71
+F0778,"['JavaScript', 'Docker', 'AWS']",71.93,5.0,70
+F0779,"['Python', 'NodeJS']",38.6,4.6,34
+F0780,"['Docker', 'AWS', 'Django']",62.81,3.1,58
+F0781,"['Docker', 'Django', 'Python', 'JavaScript', 'AWS']",94.36,4.8,21
+F0782,"['SQL', 'JavaScript', 'React', 'Docker', 'AWS']",41.62,3.3,46
+F0783,"['Docker', 'React', 'Django', 'JavaScript']",45.53,4.7,29
+F0784,"['NodeJS', 'Docker', 'JavaScript']",69.43,3.7,46
+F0785,"['React', 'Django']",25.93,3.8,7
+F0786,"['Docker', 'React', 'NodeJS']",80.95,3.5,86
+F0787,"['NodeJS', 'SQL']",52.43,3.7,13
+F0788,"['SQL', 'NodeJS', 'AWS', 'Python', 'Django']",25.67,4.1,40
+F0789,"['React', 'Docker', 'AWS', 'Python', 'Django']",84.36,3.0,75
+F0790,"['React', 'Docker', 'AWS', 'JavaScript']",55.35,4.5,44
+F0791,"['AWS', 'Django', 'Docker', 'NodeJS']",19.52,3.5,48
+F0792,"['Docker', 'Django', 'SQL', 'JavaScript']",27.99,4.2,51
+F0793,"['SQL', 'Python', 'JavaScript', 'Docker', 'React']",90.91,3.0,23
+F0794,"['Django', 'SQL']",54.13,4.1,37
+F0795,"['NodeJS', 'React', 'Python']",33.46,3.9,15
+F0796,"['Docker', 'Django', 'NodeJS', 'React', 'SQL']",69.92,3.3,54
+F0797,"['React', 'NodeJS', 'Django', 'AWS']",66.52,4.1,34
+F0798,"['React', 'SQL']",71.62,3.1,23
+F0799,"['SQL', 'NodeJS']",16.36,3.9,92
+F0800,"['NodeJS', 'SQL']",48.15,3.2,85
+F0801,"['React', 'Docker']",39.24,4.4,96
+F0802,"['Docker', 'AWS']",68.99,3.7,92
+F0803,"['SQL', 'JavaScript']",96.34,4.9,78
+F0804,"['AWS', 'Docker', 'SQL', 'React']",27.99,4.6,71
+F0805,"['SQL', 'React', 'JavaScript']",75.63,3.6,56
+F0806,"['Docker', 'SQL', 'Python', 'NodeJS']",52.59,4.1,78
+F0807,"['Docker', 'Django', 'AWS']",54.49,4.6,36
+F0808,"['React', 'AWS', 'Django']",22.49,3.1,96
+F0809,"['AWS', 'Python', 'Docker', 'SQL', 'React']",77.2,4.9,83
+F0810,"['Django', 'React', 'NodeJS', 'JavaScript', 'Docker']",47.64,4.4,59
+F0811,"['SQL', 'Docker']",34.61,3.1,26
+F0812,"['Django', 'JavaScript', 'Python', 'Docker']",27.83,4.7,89
+F0813,"['Docker', 'AWS']",71.4,3.6,78
+F0814,"['Docker', 'Django', 'JavaScript']",66.36,4.8,67
+F0815,"['Docker', 'Python', 'NodeJS', 'JavaScript', 'AWS']",29.42,3.9,88
+F0816,"['Python', 'JavaScript', 'SQL', 'NodeJS']",72.12,3.7,38
+F0817,"['NodeJS', 'SQL', 'React', 'JavaScript']",59.9,3.8,49
+F0818,"['React', 'JavaScript', 'Django']",86.31,4.4,61
+F0819,"['Django', 'Docker', 'NodeJS', 'React', 'Python']",97.36,3.7,41
+F0820,"['Python', 'Docker', 'React', 'SQL']",72.21,3.8,35
+F0821,"['React', 'Docker', 'SQL', 'JavaScript']",53.71,4.3,82
+F0822,"['AWS', 'NodeJS', 'JavaScript', 'SQL', 'Python']",42.72,3.0,7
+F0823,"['NodeJS', 'Docker']",93.32,3.3,87
+F0824,"['Docker', 'React']",54.03,4.0,26
+F0825,"['React', 'Docker', 'AWS']",95.29,5.0,97
+F0826,"['NodeJS', 'Python', 'React', 'Docker']",90.38,4.8,49
+F0827,"['Django', 'React', 'Docker']",56.19,3.2,66
+F0828,"['Python', 'SQL', 'Docker', 'NodeJS', 'AWS']",33.14,3.7,82
+F0829,"['Python', 'SQL', 'NodeJS', 'React']",62.89,4.4,66
+F0830,"['Python', 'AWS', 'Docker', 'React', 'SQL']",87.33,4.9,14
+F0831,"['Python', 'NodeJS', 'Django', 'React']",45.95,3.4,98
+F0832,"['SQL', 'AWS', 'Docker']",25.95,3.7,38
+F0833,"['Django', 'JavaScript']",37.51,4.1,8
+F0834,"['AWS', 'Python']",89.31,4.7,37
+F0835,"['SQL', 'AWS', 'NodeJS']",94.33,3.7,87
+F0836,"['AWS', 'SQL', 'Docker', 'JavaScript']",82.67,4.7,33
+F0837,"['JavaScript', 'NodeJS', 'Python', 'SQL', 'Django']",42.21,4.6,90
+F0838,"['JavaScript', 'React']",81.52,4.2,7
+F0839,"['Docker', 'Django', 'React']",94.4,3.7,60
+F0840,"['SQL', 'Django']",57.0,4.1,33
+F0841,"['Django', 'NodeJS', 'Docker', 'SQL']",44.11,4.1,58
+F0842,"['AWS', 'SQL', 'Django', 'Docker']",76.71,4.0,96
+F0843,"['NodeJS', 'React', 'Python', 'JavaScript', 'Django']",68.08,3.4,9
+F0844,"['Docker', 'AWS', 'NodeJS', 'Python', 'React']",61.03,4.4,91
+F0845,"['SQL', 'React', 'Python', 'Docker']",55.22,4.1,24
+F0846,"['Python', 'Docker', 'React', 'AWS', 'JavaScript']",89.41,3.2,35
+F0847,"['AWS', 'React', 'SQL', 'Docker']",77.44,4.0,60
+F0848,"['Django', 'JavaScript']",74.69,4.3,14
+F0849,"['React', 'SQL', 'JavaScript', 'Django', 'Docker']",90.02,4.7,97
+F0850,"['Django', 'NodeJS']",35.69,3.9,49
+F0851,"['JavaScript', 'React', 'Django']",16.45,3.8,40
+F0852,"['NodeJS', 'SQL', 'AWS']",70.5,4.4,18
+F0853,"['JavaScript', 'AWS', 'Python', 'React', 'SQL']",91.04,4.0,21
+F0854,"['Python', 'Django', 'AWS']",95.2,3.7,17
+F0855,"['JavaScript', 'React', 'Docker', 'Django', 'Python']",65.01,4.2,99
+F0856,"['Django', 'JavaScript']",37.47,4.8,52
+F0857,"['AWS', 'Python', 'Docker', 'NodeJS', 'JavaScript']",62.16,4.0,63
+F0858,"['SQL', 'Django', 'JavaScript', 'Docker']",98.54,4.5,84
+F0859,"['Docker', 'NodeJS', 'SQL', 'React']",71.85,4.9,21
+F0860,"['SQL', 'AWS', 'Python', 'Docker', 'Django']",38.81,3.7,50
+F0861,"['AWS', 'Python']",61.66,3.3,87
+F0862,"['AWS', 'React']",32.84,4.2,62
+F0863,"['AWS', 'JavaScript']",74.32,4.6,6
+F0864,"['React', 'JavaScript', 'AWS', 'Django', 'SQL']",73.28,5.0,60
+F0865,"['SQL', 'React', 'Docker', 'Python']",36.22,4.9,30
+F0866,"['Python', 'NodeJS', 'Docker', 'Django', 'AWS']",57.21,4.3,20
+F0867,"['React', 'Docker', 'SQL', 'NodeJS', 'AWS']",84.72,4.1,29
+F0868,"['React', 'SQL', 'JavaScript']",75.0,3.4,9
+F0869,"['Docker', 'AWS', 'JavaScript', 'Django']",37.48,4.4,73
+F0870,"['Docker', 'AWS', 'NodeJS']",74.09,3.4,87
+F0871,"['NodeJS', 'Django', 'React']",50.55,3.4,69
+F0872,"['React', 'Python', 'Docker']",73.59,3.2,90
+F0873,"['React', 'AWS']",22.87,4.9,44
+F0874,"['Docker', 'SQL']",93.9,4.5,36
+F0875,"['NodeJS', 'JavaScript']",68.29,4.9,100
+F0876,"['JavaScript', 'Django', 'NodeJS', 'Python']",35.1,4.0,6
+F0877,"['NodeJS', 'Python', 'Django']",18.38,3.9,70
+F0878,"['NodeJS', 'React', 'SQL', 'Python']",89.14,3.5,42
+F0879,"['NodeJS', 'AWS', 'JavaScript']",27.87,4.7,52
+F0880,"['SQL', 'React', 'AWS', 'JavaScript', 'NodeJS']",92.59,3.6,36
+F0881,"['Python', 'Django', 'NodeJS']",69.04,3.3,82
+F0882,"['Docker', 'Django', 'JavaScript', 'Python']",94.62,4.4,58
+F0883,"['JavaScript', 'NodeJS']",52.09,3.7,82
+F0884,"['JavaScript', 'Docker']",99.32,4.1,10
+F0885,"['Django', 'NodeJS', 'Docker', 'JavaScript']",94.3,5.0,78
+F0886,"['Python', 'Django']",65.64,3.2,87
+F0887,"['AWS', 'SQL', 'Django', 'Python', 'React']",51.56,4.8,48
+F0888,"['Python', 'Docker', 'AWS', 'Django', 'JavaScript']",23.15,3.6,28
+F0889,"['JavaScript', 'Docker', 'NodeJS']",87.94,4.2,77
+F0890,"['Docker', 'AWS']",88.15,3.6,60
+F0891,"['JavaScript', 'AWS', 'React', 'Django']",78.63,4.6,42
+F0892,"['SQL', 'Python', 'Django', 'JavaScript', 'React']",77.37,4.7,50
+F0893,"['AWS', 'SQL']",26.57,3.5,23
+F0894,"['NodeJS', 'JavaScript', 'SQL']",32.26,5.0,10
+F0895,"['Docker', 'JavaScript', 'AWS']",96.91,3.2,39
+F0896,"['Python', 'NodeJS']",98.68,3.3,11
+F0897,"['Docker', 'Django', 'React']",69.79,5.0,67
+F0898,"['SQL', 'JavaScript']",71.91,3.3,84
+F0899,"['Docker', 'JavaScript', 'Django']",63.52,3.4,39
+F0900,"['AWS', 'SQL', 'Docker', 'NodeJS']",67.87,4.9,89
+F0901,"['AWS', 'Django', 'JavaScript', 'SQL', 'Docker']",72.54,3.8,87
+F0902,"['SQL', 'JavaScript', 'Python', 'Django', 'NodeJS']",61.74,3.6,55
+F0903,"['Python', 'React', 'AWS', 'NodeJS']",95.41,3.9,15
+F0904,"['JavaScript', 'SQL']",86.68,3.6,59
+F0905,"['JavaScript', 'AWS', 'Docker']",39.65,4.8,95
+F0906,"['Docker', 'React']",92.68,4.8,73
+F0907,"['JavaScript', 'React']",55.77,3.5,20
+F0908,"['Python', 'JavaScript', 'AWS', 'SQL']",22.41,3.6,96
+F0909,"['React', 'Python', 'AWS']",65.93,3.3,69
+F0910,"['NodeJS', 'React', 'SQL', 'Docker', 'Python']",78.61,3.8,76
+F0911,"['JavaScript', 'NodeJS', 'React']",55.61,4.5,40
+F0912,"['Python', 'Django', 'NodeJS', 'React']",92.77,3.1,91
+F0913,"['Python', 'React']",15.21,3.5,36
+F0914,"['Django', 'SQL', 'NodeJS']",93.56,4.2,27
+F0915,"['Python', 'Docker', 'JavaScript']",90.1,3.3,27
+F0916,"['Django', 'Docker', 'NodeJS', 'AWS']",81.07,3.9,10
+F0917,"['SQL', 'Docker']",16.46,3.6,40
+F0918,"['SQL', 'Django', 'JavaScript', 'NodeJS', 'Python']",28.83,3.4,97
+F0919,"['React', 'Django', 'JavaScript', 'SQL']",67.64,4.7,40
+F0920,"['Django', 'JavaScript', 'AWS', 'SQL']",81.85,3.5,75
+F0921,"['JavaScript', 'React']",17.04,4.1,26
+F0922,"['SQL', 'NodeJS', 'AWS']",60.76,3.8,54
+F0923,"['SQL', 'JavaScript', 'Docker', 'Django']",65.93,3.6,28
+F0924,"['Django', 'React', 'Python', 'AWS']",59.21,4.5,44
+F0925,"['Python', 'React', 'AWS', 'SQL', 'Docker']",96.04,3.7,88
+F0926,"['SQL', 'NodeJS', 'React']",67.62,4.2,29
+F0927,"['AWS', 'Docker', 'SQL', 'React']",27.39,3.8,71
+F0928,"['React', 'JavaScript', 'Django', 'Docker', 'Python']",75.97,4.2,59
+F0929,"['React', 'Python', 'AWS', 'Django']",87.41,4.4,19
+F0930,"['Django', 'JavaScript']",43.7,3.6,14
+F0931,"['JavaScript', 'NodeJS', 'Django', 'Python', 'React']",22.08,3.2,55
+F0932,"['Python', 'SQL', 'NodeJS', 'React', 'AWS']",51.0,3.5,45
+F0933,"['SQL', 'NodeJS', 'Docker', 'Django']",43.39,3.2,41
+F0934,"['Python', 'React', 'AWS', 'Django', 'NodeJS']",90.01,3.7,55
+F0935,"['React', 'NodeJS', 'AWS', 'Python']",69.69,3.1,70
+F0936,"['Docker', 'NodeJS']",52.31,4.6,18
+F0937,"['AWS', 'Django', 'React', 'NodeJS', 'Docker']",51.07,4.3,65
+F0938,"['Django', 'NodeJS', 'SQL', 'Docker', 'JavaScript']",58.64,4.6,79
+F0939,"['Docker', 'AWS', 'SQL', 'Django']",92.82,4.3,96
+F0940,"['React', 'Docker', 'AWS', 'JavaScript']",91.8,4.3,66
+F0941,"['Django', 'NodeJS', 'SQL']",48.29,4.4,23
+F0942,"['Python', 'JavaScript', 'Django']",64.46,4.3,11
+F0943,"['Docker', 'Python', 'JavaScript', 'SQL', 'NodeJS']",65.92,4.7,71
+F0944,"['NodeJS', 'Docker', 'React']",60.5,4.9,65
+F0945,"['Django', 'NodeJS']",97.22,4.3,55
+F0946,"['AWS', 'JavaScript', 'Django', 'React', 'NodeJS']",38.73,3.3,20
+F0947,"['JavaScript', 'NodeJS', 'Python', 'React']",55.38,4.6,46
+F0948,"['SQL', 'Docker']",77.66,4.1,51
+F0949,"['Docker', 'NodeJS', 'Python', 'JavaScript']",46.92,3.3,32
+F0950,"['AWS', 'Docker']",16.94,4.6,15
+F0951,"['NodeJS', 'JavaScript']",98.4,4.9,29
+F0952,"['JavaScript', 'NodeJS', 'React']",29.5,4.7,78
+F0953,"['Docker', 'NodeJS', 'SQL', 'JavaScript', 'React']",56.87,3.2,85
+F0954,"['NodeJS', 'Python', 'Docker']",54.78,4.7,20
+F0955,"['Docker', 'JavaScript']",63.02,3.4,73
+F0956,"['NodeJS', 'AWS', 'SQL', 'JavaScript']",58.91,4.8,7
+F0957,"['Python', 'JavaScript', 'Docker', 'AWS']",20.37,3.7,57
+F0958,"['Python', 'AWS']",91.37,3.8,68
+F0959,"['SQL', 'Python', 'Docker', 'NodeJS']",60.68,3.7,22
+F0960,"['JavaScript', 'Django', 'SQL', 'Python']",76.38,3.1,10
+F0961,"['Django', 'Python']",41.52,3.5,47
+F0962,"['AWS', 'SQL', 'NodeJS', 'Docker', 'React']",73.32,4.9,7
+F0963,"['SQL', 'Django']",17.72,4.4,45
+F0964,"['React', 'AWS']",38.38,4.6,75
+F0965,"['AWS', 'Django', 'JavaScript', 'Python']",63.18,3.7,29
+F0966,"['SQL', 'JavaScript', 'Python']",70.16,4.0,9
+F0967,"['React', 'Django', 'Docker', 'SQL', 'Python']",99.74,3.5,61
+F0968,"['Python', 'JavaScript', 'React', 'Django', 'AWS']",21.69,4.5,61
+F0969,"['JavaScript', 'Python', 'Django']",98.02,4.9,59
+F0970,"['Docker', 'JavaScript']",91.19,3.1,71
+F0971,"['JavaScript', 'SQL', 'AWS']",55.93,3.4,53
+F0972,"['SQL', 'AWS', 'JavaScript']",38.63,4.8,42
+F0973,"['Django', 'AWS', 'React', 'SQL', 'Python']",47.08,4.4,25
+F0974,"['JavaScript', 'NodeJS']",21.18,5.0,13
+F0975,"['Docker', 'React', 'JavaScript']",69.85,4.9,24
+F0976,"['AWS', 'NodeJS', 'React']",47.3,3.8,59
+F0977,"['JavaScript', 'Django', 'Python', 'NodeJS', 'Docker']",64.92,3.8,16
+F0978,"['Python', 'JavaScript', 'NodeJS', 'AWS', 'Docker']",54.0,3.4,48
+F0979,"['NodeJS', 'SQL']",52.61,3.9,20
+F0980,"['AWS', 'JavaScript']",63.69,4.2,77
+F0981,"['JavaScript', 'Python', 'AWS']",30.71,4.6,55
+F0982,"['Python', 'SQL', 'Docker', 'React']",94.19,4.2,53
+F0983,"['SQL', 'JavaScript']",28.39,3.1,87
+F0984,"['JavaScript', 'NodeJS', 'SQL']",29.67,4.6,31
+F0985,"['React', 'Django', 'NodeJS']",20.34,4.7,38
+F0986,"['AWS', 'Django']",81.74,3.0,97
+F0987,"['React', 'Django', 'AWS', 'NodeJS']",17.01,4.9,32
+F0988,"['SQL', 'JavaScript', 'React', 'AWS', 'Python']",22.0,3.5,92
+F0989,"['Python', 'JavaScript', 'NodeJS']",29.26,4.0,93
+F0990,"['Python', 'React', 'SQL', 'AWS', 'Docker']",29.36,3.3,23
+F0991,"['JavaScript', 'Docker']",71.14,4.9,14
+F0992,"['Django', 'NodeJS', 'SQL', 'JavaScript', 'Python']",27.52,3.0,17
+F0993,"['Docker', 'NodeJS', 'AWS', 'React', 'Django']",96.25,3.0,92
+F0994,"['Python', 'Django', 'React', 'AWS']",95.39,3.6,46
+F0995,"['SQL', 'JavaScript']",98.86,3.2,86
+F0996,"['JavaScript', 'React', 'NodeJS', 'Python']",54.04,3.3,11
+F0997,"['Python', 'Docker', 'SQL', 'NodeJS']",89.03,4.5,40
+F0998,"['Python', 'Django', 'Docker']",87.23,3.1,92
+F0999,"['Django', 'JavaScript', 'SQL', 'AWS']",71.99,3.8,41

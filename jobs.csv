@@ -1,0 +1,31 @@
+Job_ID,Required_Skills,Budget,Duration_Days
+J2000,"['JavaScript', 'NodeJS']",1107,25
+J2001,"['Python', 'SQL', 'JavaScript', 'Docker']",2179,11
+J2002,"['Python', 'React', 'Django']",4968,10
+J2003,"['Django', 'AWS']",1512,26
+J2004,"['React', 'SQL', 'JavaScript', 'Django']",817,18
+J2005,"['SQL', 'Python', 'Docker']",3035,12
+J2006,"['Django', 'AWS', 'Docker', 'Python']",347,21
+J2007,"['AWS', 'Django', 'SQL', 'Python']",3194,23
+J2008,"['React', 'AWS', 'Docker', 'Django']",2770,11
+J2009,"['AWS', 'Django']",806,26
+J2010,"['NodeJS', 'Docker', 'SQL', 'AWS']",3112,7
+J2011,"['Python', 'JavaScript', 'React']",3343,12
+J2012,"['NodeJS', 'Django', 'SQL', 'Docker']",3337,22
+J2013,"['Python', 'SQL', 'Django']",4024,30
+J2014,"['Python', 'React']",2739,13
+J2015,"['AWS', 'Docker', 'React']",4380,10
+J2016,"['Docker', 'Django']",4917,21
+J2017,"['AWS', 'SQL', 'JavaScript', 'React']",2031,18
+J2018,"['JavaScript', 'React', 'SQL', 'Docker']",748,19
+J2019,"['NodeJS', 'JavaScript']",4768,9
+J2020,"['Docker', 'JavaScript', 'React']",1072,6
+J2021,"['Python', 'Django', 'AWS']",899,24
+J2022,"['JavaScript', 'SQL', 'NodeJS']",3263,3
+J2023,"['Django', 'JavaScript', 'SQL']",2379,4
+J2024,"['Docker', 'Python']",4264,27
+J2025,"['React', 'JavaScript', 'SQL']",3071,16
+J2026,"['SQL', 'React', 'Docker', 'Django']",1353,3
+J2027,"['SQL', 'Python', 'React', 'AWS']",2027,28
+J2028,"['SQL', 'Django', 'JavaScript']",4017,28
+J2029,"['AWS', 'Docker', 'Python', 'NodeJS']",740,8
