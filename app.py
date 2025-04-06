@@ -1,5 +1,9 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request,render_template_string
 import pickle
+import warnings
+import numpy as np
+
+warnings.filterwarnings(action='ignore')
 
 app = Flask(__name__)
 
@@ -13,29 +17,81 @@ with open("scaler.pkl", "rb") as f:
 with open("ranker_model.pkl", "rb") as f:
     ranker = pickle.load(f)
 
+template = """
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Freelancer Recommender</title>
+</head>
+<body style="font-family: Arial; padding: 40px;">
+    <h2>Freelancer Recommender</h2>
+    <form method="POST">
+        <label>Required Skills (comma-separated):</label><br>
+        <input type="text" name="skills" required><br><br>
 
-@app.route('/recommend', methods=['POST'])
-def recommend():
-    data = request.json
-    required_skills = data.get("Required_Skills", [])
-    budget = data.get("Budget", 1000)
-    duration = data.get("Duration_Days", 10)
+        <label>Budget:</label><br>
+        <input type="number" name="budget" required><br><br>
 
-    job_skill_vec = mlb.transform([required_skills])[0]
-    job_vector = list(job_skill_vec) + [budget, duration]
+        <label>Duration (in days):</label><br>
+        <input type="number" name="duration" required><br><br>
 
-    scores = []
-    for _, freelancer in freelancers_df.iterrows():
-        fskill_vec = mlb.transform([freelancer["Skills"]])[0]
-        fvec = list(fskill_vec) + [freelancer["Hourly_Rate"], freelancer["Rating"], freelancer["Completed_Projects"]]
-        combined = job_vector + fvec
-        scaled = scaler.transform([combined])
-        score = ranker.predict(scaled)[0]
-        scores.append((freelancer["Freelancer_ID"], score))
+        <input type="submit" value="Get Recommendations">
+    </form>
 
-    top_k = sorted(scores, key=lambda x: x[1], reverse=True)[:5]
-    return jsonify({"recommendations": [{"freelancer_id": fid, "score": round(score, 4)} for fid, score in top_k]})
+    {% if top_freelancers %}
+        <h3>Top 5 Freelancers:</h3>
+        <table border="1" cellpadding="8">
+            <tr>
+                <th>ID</th>
+                <th>Score</th>
+            </tr>
+            {% for fid, score in top_freelancers %}
+            <tr>
+                <td>{{ fid }}</td>
+                <td>{{ score }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+</body>
+</html>
+"""
+
+@app.route("/", methods=["GET", "POST"])
+def recommend_freelancers_for_job():
+    top_freelancers = None
+
+    if request.method == "POST":
+        try:
+            skills = [s.strip() for s in request.form["skills"].split(",")]
+            budget = float(request.form["budget"])
+            duration = float(request.form["duration"])
+
+            job_skills_vec = mlb.transform(skills)[0]
+            job_vector = list(job_skills_vec) + [budget, duration]
+
+            scores = []
+            for _, freelancer in freelancers_df.iterrows():
+                freelancer_skills_vec = mlb.transform([freelancer["Skills"]])[0]
+                freelancer_vector = list(freelancer_skills_vec) + [
+                    freelancer["Hourly_Rate"],
+                    freelancer["Rating"],
+                    freelancer["Completed_Projects"]
+                ]
+
+                input_vec = job_vector + freelancer_vector
+                input_scaled = scaler.transform([input_vec])
+                score = ranker.predict(input_scaled)[0]
+                scores.append((freelancer["Freelancer_ID"], score))
+
+            top_freelancers = sorted(scores, key=lambda x: x[1], reverse=True)[:5]
+
+        except Exception as e:
+            return f"<h3>Error: {str(e)}</h3>"
+
+    return render_template_string(template, recommendations=top_freelancers)
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=7860)
