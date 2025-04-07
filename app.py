@@ -7,13 +7,13 @@ warnings.filterwarnings(action='ignore')
 app = Flask(__name__)
 
 # Load artifacts
-with open("freelancers.pkl", "rb") as f:
+with open(r"resources/freelancers.pkl", "rb") as f:
     freelancers_df = pickle.load(f)
-with open("mlb.pkl", "rb") as f:
+with open(r"resources/mlb.pkl", "rb") as f:
     mlb = pickle.load(f)
-with open("scaler.pkl", "rb") as f:
+with open(r"resources/scaler.pkl", "rb") as f:
     scaler = pickle.load(f)
-with open("ranker_model.pkl", "rb") as f:
+with open(r"resources/ranker_model.pkl", "rb") as f:
     ranker = pickle.load(f)
 
 template = """
