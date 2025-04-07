@@ -1,7 +1,6 @@
 from flask import Flask, request,render_template_string
 import pickle
 import warnings
-import numpy as np
 
 warnings.filterwarnings(action='ignore')
 
@@ -89,7 +88,7 @@ def recommend_freelancers_for_job():
         except Exception as e:
             return f"<h3>Error: {str(e)}</h3>"
 
-    return render_template_string(template, recommendations=top_freelancers)
+    return render_template_string(template, top_freelancers=top_freelancers)
 
 
 
