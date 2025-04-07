@@ -1,8 +1,3 @@
----
-title: FreeLancer Recommender System
-emoji: 📚
-colorFrom: green
-colorTo: purple
-sdk: docker
-pinned: false
----
+Test Here
+
+https://shiv-am-04-freelancer-recommender.hf.space
